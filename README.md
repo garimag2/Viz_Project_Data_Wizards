@@ -1,6 +1,6 @@
 # Viz_Project_Data_Wizards
 ## Data Visualizations on NYC dataset
-### Garima Garg, Paulami Ray, Kumkum Yadav
+### Garima Garg (garimag2@illinois.edu), Paulami Ray(paulami2@illinois.edu), Kumkum Yadav(kumkumy2@illinois.edu)
 
 The data represents the list of Citi Bikers in New York. It tells us when do they ride, how far do they go, which stations are the most popular and also what days of the week are the most rides taken on. For more information on the dataset columns please refer file : Dataset_Part1.
 The dataset is uploaded here as a .zip file.
